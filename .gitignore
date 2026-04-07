@@ -1,0 +1,20 @@
+# Ignore Environment Variables (API Keys)
+.env
+
+# Ignore Virtual Environments
+venv/
+env/
+
+# Ignore massive video files and temporary audio
+/raw_videos/
+/clips/
+*.mp4
+*.mov
+*.wav
+
+# Ignore dynamic JSON caches
+transcript_cache.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
