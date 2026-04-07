@@ -1,0 +1,6 @@
+faster-whisper
+librosa
+numpy
+torch
+openai
+python-dotenv
